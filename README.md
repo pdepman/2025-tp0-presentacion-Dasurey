@@ -1,6 +1,7 @@
 # Presentación
 
-![FotoPerfil] (https://avatars.githubusercontent.com/u/154481418?v=4)
+<img src="https://avatars.githubusercontent.com/u/154481418?v=4" alt="Foto de Perfil" width="200" height="200"/>
+
 
 ## 📌 Información
 - **Nombre y Apellido:** Dario Alexandre Asurey
